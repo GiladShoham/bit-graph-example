@@ -14,5 +14,10 @@ test-utils is *dev* dependency of card. (red arrow)
 sort-array is dependency of test-utils (grey arrow)
 
 ## Run
-`clone project`
-`bit graph -i ./graph.pn`
+```
+clone project
+bit graph -i ./graph.png // Run `bit graph -h` for more options
+```
+
+## Result
+You can see the result in the graph.png file.
