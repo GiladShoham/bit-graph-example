@@ -20,4 +20,4 @@ bit graph -i ./graph.png // Run `bit graph -h` for more options
 ```
 
 ## Result
-You can see the result in the graph.png file.
+![graph.png](graph.png?raw=true)
