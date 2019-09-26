@@ -9,9 +9,9 @@ This project has few components:
 4. test-utils
 5. sort-array
 
-card-header and card-body are dependencies of card. (grey arrow)
-test-utils is *dev* dependency of card. (red arrow)
-sort-array is dependency of test-utils (grey arrow)
+card-header and card-body are dependencies of card. (grey arrow)  
+test-utils is *dev* dependency of card. (red arrow)  
+sort-array is dependency of test-utils (grey arrow)  
 
 ## Run
 ```
